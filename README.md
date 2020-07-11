@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-
-**anupamhaldkar/anupamhaldkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java Projects
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Web 🕸 Applications
-- 🤔 I’m looking for help with workbox
+- 🌱 I’m currently learning Full Stack Development 
+- 👯 I’m looking to collaborate on Web 🕸 Applications 
+- 🤔 I’m looking for help with workbox 
 - 💬 Ask me about :... I am always ready to help at my best :wink:
 - 📫 How to reach me: ahdev2020@outlook.com
-- 😄 Pronouns: Friend 
+- 😄 Pronouns: Friend :open_hands:
 - ⚡ Fun fact: Can sleep all day and work all night 
 
 
