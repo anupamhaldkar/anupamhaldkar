@@ -14,3 +14,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/AnupamHaldkar)
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@ahdev2020)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anupamhaldkar)
+<!--[![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true)](https://github.com/anupamhaldkar/github-readme-stats)-->
