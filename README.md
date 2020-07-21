@@ -12,7 +12,7 @@
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true)](https://github.com/anupamhaldkar/github-readme-stats)
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/anupamhaldkar/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupamhaldkar/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__procli/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnupamHaldkar)](https://twitter.com/AnupamHaldkar)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dasjideepak/)](https://medium.com/@@ahdev2020)
