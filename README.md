@@ -14,7 +14,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/anupamhaldkar/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__procli/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnupamHaldkar)](https://twitter.com/dasjideepak)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnupamHaldkar)](https://twitter.com/AnupamHaldkar)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dasjideepak/)](https://medium.com/@@ahdev2020)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:@ahdev2020@outlook.com)
 <!--[![linkedin badge](https://img.shields.io/badge/Anupam_Haldkar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anupam-haldkar-a54777131/)
