@@ -9,8 +9,11 @@
 - 😄 Pronouns: Friend :open_hands:
 - ⚡ Fun fact: Can sleep all day and work all night 
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true)](https://github.com/anupamhaldkar/github-readme-stats)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)
 
+
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamhaldkar&show_icons=true&theme=merko&hide=["contribs","prs"]&cache_seconds=86400)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupamhaldkar/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__procli/)
