@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java Projects
+- 🔭 I’m currently working on Java Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
 - 🤔 I’m looking for help with workbox 
-- 💬 Ask me about :... I am always ready to help at my best :wink:
-- 📫 How to reach me: ahdev2020@outlook.com
+- 💬 Ask me about : I am always ready to help at my best 
+- 📫 How to reach me: ahdev2020@outlook.com  <br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 - 😄 Pronouns: Friend :open_hands:
 - ⚡ Fun fact: Can sleep all day and work all night 
 
