@@ -15,10 +15,13 @@
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
 - 🤔 I’m looking for help with workbox 
 - 💬 Ask me about : I am always ready to help at my best 
-- 📫 How to reach me: ahdev2020@outlook.com  <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+- 📫 How to reach me: ahdev2020@outlook.com  
 - 😄 Pronouns: Friend :open_hands:
 - ⚡ Fun fact: Can sleep all day and work all night 
+
+<a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)
 
