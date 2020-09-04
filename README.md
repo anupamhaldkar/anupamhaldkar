@@ -1,6 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
+<p align='center'><img  src="https://user-images.githubusercontent.com/48323127/92276168-1ccd0400-ef0e-11ea-99f0-64f583d87e22.png" alt="Hello world" ></p>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
+</p>
+
 - 🔭 I’m currently working on Java Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
