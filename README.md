@@ -17,9 +17,15 @@
 - 😄 Pronouns: Friend :open_hands:
 - ⚡ Fun fact: Can sleep all day and work all night 
 
+### Wanna see my blogs:question::fire:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)
 
