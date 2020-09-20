@@ -20,6 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10  Features of HTML](https://medium.com/@ahdev2020/top-10-cool-features-of-html-895561878620?source=rss-b061864b94c------2)
+- [GitHub ‍ CLI  1.0 is here](https://medium.com/@ahdev2020/github-cli-1-0-is-here-81e46c691914?source=rss-b061864b94c------2)
+- [What is Docker and Container](https://medium.com/@ahdev2020/introduction-to-docker-and-container-4622e76c32d5?source=rss-b061864b94c------2)
+- [How to add Multiselect‍♀️ Dropdown in React ❓](https://medium.com/@ahdev2020/how-to-add-multiselect-%EF%B8%8F-dropdown-in-react-15a1fc56469c?source=rss-b061864b94c------2)
+- [How to create Range Slider in React](https://medium.com/@ahdev2020/how-to-create-range-slider-in-react-9392a123f8fb?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
