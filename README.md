@@ -46,3 +46,5 @@
 <!--[![linkedin badge](https://img.shields.io/badge/Anupam_Haldkar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anupam-haldkar-a54777131/)
 [![twitter badge](https://img.shields.io/badge/@AnupamHaldkar-30302f?style=flat&logo=twitter)](https://twitter.com/AnupamHaldkar)
 [![medium badge](https://img.shields.io/badge/AHDEV2020-30302f?style=flat&logo=medium)](https://medium.com/@ahdev2020)-->
+
+<a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a>
