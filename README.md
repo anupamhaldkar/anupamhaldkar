@@ -20,11 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Jenkins pipeline — Installation](https://medium.com/@ahdev2020/jenkins-pipeline-overview-b90d31ee4a0d?source=rss-b061864b94c------2)
 - [All you need to know about Hacktoberfest](https://medium.com/@ahdev2020/all-you-need-to-know-about-hacktoberfest-2da1e9fe7273?source=rss-b061864b94c------2)
 - [Interactive CSS buttons you must use](https://medium.com/@ahdev2020/interactive-css-buttons-you-must-use-a72811b9ea67?source=rss-b061864b94c------2)
 - [Netlify is a super  Deployment Provider](https://medium.com/@ahdev2020/netlifys-is-super-ci-tool-64ff0d803a85?source=rss-b061864b94c------2)
 - [Free Microsoft Certification Exam Coupon Worth $165](https://medium.com/@ahdev2020/free-microsoft-certification-exam-coupon-worth-165-46c4a4964215?source=rss-b061864b94c------2)
-- [JavaScript console.log( ) Tip   and tricks✨](https://medium.com/@ahdev2020/javascript-console-log-tip-and-tricks-7d99ff7828f2?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
