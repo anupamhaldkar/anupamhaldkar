@@ -20,11 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Youtube Channels](https://medium.com/@ahdev2020/programming-youtube-channels-c193ef91e5b?source=rss-b061864b94c------2)
 - [Design Patterns In Web Development ⬆](https://medium.com/@ahdev2020/design-patterns-in-web-development-3c06a6146ab2?source=rss-b061864b94c------2)
 - [Jenkins pipeline — Installation](https://medium.com/@ahdev2020/jenkins-pipeline-overview-b90d31ee4a0d?source=rss-b061864b94c------2)
 - [All you need to know about Hacktoberfest](https://medium.com/@ahdev2020/all-you-need-to-know-about-hacktoberfest-2da1e9fe7273?source=rss-b061864b94c------2)
 - [Interactive CSS buttons you must use](https://medium.com/@ahdev2020/interactive-css-buttons-you-must-use-a72811b9ea67?source=rss-b061864b94c------2)
-- [Netlify is a super  Deployment Provider](https://medium.com/@ahdev2020/netlifys-is-super-ci-tool-64ff0d803a85?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
