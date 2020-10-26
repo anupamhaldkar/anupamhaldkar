@@ -20,11 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [MERN Stack Project in ⌚ 5 minutes](https://medium.com/@ahdev2020/mern-stack-project-in-5-minutes-733ee6f0c2a2?source=rss-b061864b94c------2)
 - [Developer Portfolio Using Gatsby and API](https://medium.com/@ahdev2020/developer-portfolio-using-gatsby-and-api-1439d1711563?source=rss-b061864b94c------2)
 - [API Testing via  Postman Workflow](https://medium.com/@ahdev2020/api-testing-via-postman-workflow-a85e4fb5d594?source=rss-b061864b94c------2)
 - [Programming Youtube Channels](https://medium.com/@ahdev2020/programming-youtube-channels-c193ef91e5b?source=rss-b061864b94c------2)
 - [Design Patterns In Web Development ⬆](https://medium.com/@ahdev2020/design-patterns-in-web-development-3c06a6146ab2?source=rss-b061864b94c------2)
-- [Jenkins pipeline — Installation](https://medium.com/@ahdev2020/jenkins-pipeline-overview-b90d31ee4a0d?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
