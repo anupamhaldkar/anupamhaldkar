@@ -20,7 +20,7 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes  deprecating Docker](https://medium.com/@ahdev2020/kubernetes-deprecating-docker-a9d4a4169e9?source=rss-b061864b94c------2)
+- [Kubernetes  deprecating Docker  ❗❕](https://medium.com/@ahdev2020/kubernetes-deprecating-docker-a9d4a4169e9?source=rss-b061864b94c------2)
 - [Top 5️⃣ Popular Databases in 2020](https://medium.com/@ahdev2020/top-5%EF%B8%8F%E2%83%A3-popular-databases-in-2020-3a5263d324b7?source=rss-b061864b94c------2)
 - [Logic Building for problem solving‍⚖️](https://medium.com/@ahdev2020/logic-building-for-problem-solving-%EF%B8%8F-82fc69ea9570?source=rss-b061864b94c------2)
 - [MERN Stack Project in ⌚ 5 minutes](https://medium.com/@ahdev2020/mern-stack-project-in-5-minutes-733ee6f0c2a2?source=rss-b061864b94c------2)
