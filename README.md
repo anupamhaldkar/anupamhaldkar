@@ -24,7 +24,7 @@
 - [What is Marker Interface ❓](https://medium.com/@ahdev2020/what-is-marker-interface-7eeebd927caf?source=rss-b061864b94c------2)
 - [Kubernetes  deprecating Docker  ❗❕](https://medium.com/@ahdev2020/kubernetes-deprecating-docker-a9d4a4169e9?source=rss-b061864b94c------2)
 - [Top 5️⃣ Popular Databases in 2020](https://medium.com/@ahdev2020/top-5%EF%B8%8F%E2%83%A3-popular-databases-in-2020-3a5263d324b7?source=rss-b061864b94c------2)
-- [Logic Building for problem solving‍⚖️](https://medium.com/@ahdev2020/logic-building-for-problem-solving-%EF%B8%8F-82fc69ea9570?source=rss-b061864b94c------2)
+- [Logic Building for problem solving in Coding Era‍♀️](https://medium.com/@ahdev2020/logic-building-for-problem-solving-%EF%B8%8F-82fc69ea9570?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
