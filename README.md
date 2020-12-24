@@ -20,7 +20,7 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft AI Classroom Assessment Answer](https://medium.com/@ahdev2020/microsoft-ai-classroom-assessment-answer-4374adb1d4b8?source=rss-b061864b94c------2)
+- [‍Microsoft AI Classroom Assessment Answer ➡](https://medium.com/@ahdev2020/microsoft-ai-classroom-assessment-answer-4374adb1d4b8?source=rss-b061864b94c------2)
 - [SolarWinds Orion hacked ‍: Fortune Company affected](https://medium.com/@ahdev2020/solarwinds-orion-hacked-fortune-company-affected-50e3c1661883?source=rss-b061864b94c------2)
 - [What is Marker Interface ❓](https://medium.com/@ahdev2020/what-is-marker-interface-7eeebd927caf?source=rss-b061864b94c------2)
 - [Kubernetes  deprecating Docker  ❗❕](https://medium.com/@ahdev2020/kubernetes-deprecating-docker-a9d4a4169e9?source=rss-b061864b94c------2)
