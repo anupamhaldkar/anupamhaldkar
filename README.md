@@ -27,9 +27,10 @@
 - [Kubernetes  deprecating Docker  ❗❕](https://medium.com/@ahdev2020/kubernetes-deprecating-docker-a9d4a4169e9?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
+<h1>
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
+</h1>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)
@@ -48,3 +49,5 @@
 [![medium badge](https://img.shields.io/badge/AHDEV2020-30302f?style=flat&logo=medium)](https://medium.com/@ahdev2020)-->
 
 <a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
