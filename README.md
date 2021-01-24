@@ -20,11 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Object Oriented Concepts for every Developers ‍](https://medium.com/@ahdev2020/object-oriented-concepts-for-every-developers-356ef13fea90?source=rss-b061864b94c------2)
 - [What is GSON ‍♂️❓ JSON ⚖ GSON](https://medium.com/@ahdev2020/what-is-gson-%EF%B8%8F-json-gson-62fea8590f5a?source=rss-b061864b94c------2)
 - [‍Microsoft AI Classroom Assessment Answer ➡](https://medium.com/@ahdev2020/microsoft-ai-classroom-assessment-answer-4374adb1d4b8?source=rss-b061864b94c------2)
 - [SolarWinds Orion hacked ‍: Fortune Company affected](https://medium.com/@ahdev2020/solarwinds-orion-hacked-fortune-company-affected-50e3c1661883?source=rss-b061864b94c------2)
 - [What is Marker Interface ❓](https://medium.com/@ahdev2020/what-is-marker-interface-7eeebd927caf?source=rss-b061864b94c------2)
-- [Kubernetes  deprecating Docker  ❗❕](https://medium.com/@ahdev2020/kubernetes-deprecating-docker-a9d4a4169e9?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h1>
