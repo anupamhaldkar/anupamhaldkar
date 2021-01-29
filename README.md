@@ -20,11 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Developers Swags & Goodies Part 2](https://medium.com/@ahdev2020/developers-swags-goodies-part-2-a46d08476b12?source=rss-b061864b94c------2)
+- [Developers Swags & Goodies Part 1](https://medium.com/@ahdev2020/developers-swags-goodies-part-1-3d91e78b3fa7?source=rss-b061864b94c------2)
 - [What is Interface ❓ Interface  Abstract Class](https://medium.com/@ahdev2020/what-is-interface-interface-abstract-class-6f880a0d5ea1?source=rss-b061864b94c------2)
 - [Object Oriented Concepts for every Developers ‍](https://medium.com/@ahdev2020/object-oriented-concepts-for-every-developers-356ef13fea90?source=rss-b061864b94c------2)
 - [What is GSON ‍♂️❓ JSON ⚖ GSON](https://medium.com/@ahdev2020/what-is-gson-%EF%B8%8F-json-gson-62fea8590f5a?source=rss-b061864b94c------2)
-- [‍Microsoft AI Classroom Assessment Answer ➡](https://medium.com/@ahdev2020/microsoft-ai-classroom-assessment-answer-4374adb1d4b8?source=rss-b061864b94c------2)
-- [SolarWinds Orion hacked ‍: Fortune Company affected](https://medium.com/@ahdev2020/solarwinds-orion-hacked-fortune-company-affected-50e3c1661883?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h1>
