@@ -20,11 +20,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Ignite Event Overview](https://medium.com/@ahdev2020/microsoft-ignite-event-overview-d711e993f01b?source=rss-b061864b94c------2)
 - [What types of security cameras are there and how to choose the right one?](https://medium.com/@ahdev2020/what-types-of-security-cameras-are-there-and-how-to-choose-the-right-one-57152770f333?source=rss-b061864b94c------2)
 - [‍Developers Swags & Goodies Part 2️⃣](https://medium.com/@ahdev2020/developers-swags-goodies-part-2-a46d08476b12?source=rss-b061864b94c------2)
 - [‍Developers Swags & Goodies Part 1️⃣](https://medium.com/@ahdev2020/developers-swags-goodies-part-1-3d91e78b3fa7?source=rss-b061864b94c------2)
 - [What is Interface ❓ Interface  Abstract Class](https://medium.com/@ahdev2020/what-is-interface-interface-abstract-class-6f880a0d5ea1?source=rss-b061864b94c------2)
-- [Object Oriented Concepts for every Developers ‍](https://medium.com/@ahdev2020/object-oriented-concepts-for-every-developers-356ef13fea90?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h1>
