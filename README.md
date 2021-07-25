@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align='center'><img  src="https://user-images.githubusercontent.com/48323127/126895374-cdfd1878-7051-48fb-a811-0140b8d0864a.jpg" alt="Hello world" ></p>
 
@@ -27,13 +27,11 @@
 - [‍Developers Swags & Goodies Part 2️⃣](https://ahdev2020.medium.com/developers-swags-goodies-part-2-a46d08476b12?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h1>
-<a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
-</h1>
 
 
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)
+
+ [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)
 
 
 
@@ -51,3 +49,7 @@
 <a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<h2 align="center">
+<a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
+</h2>
