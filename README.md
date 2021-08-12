@@ -46,9 +46,11 @@
 [![twitter badge](https://img.shields.io/badge/@AnupamHaldkar-30302f?style=flat&logo=twitter)](https://twitter.com/AnupamHaldkar)
 [![medium badge](https://img.shields.io/badge/AHDEV2020-30302f?style=flat&logo=medium)](https://medium.com/@ahdev2020)-->
 
-<a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a>
+ <h3 align="center"><a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a></h3>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<h3 align="center"><img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  </h3>
+  <h3 align="center"> <em>  <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h3>
 
 <h2 align="center">
 <a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
