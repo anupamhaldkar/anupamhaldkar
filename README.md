@@ -8,10 +8,10 @@
   <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
 </p>
 
-- 🔭 I’m currently working on Java Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Full Stack Development 
+- 🔭 I’m currently working on ServiceNow <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning React Framework 
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
-- 🤔 I’m looking for help with workbox 
+- 🤔 I’m looking for help with competitive Coding 
 - 💬 Ask me about : I am always ready to help at my best 
 - 📫 How to reach me: ahdev2020@outlook.com  
 - 😄 Pronouns: Friend :open_hands:
