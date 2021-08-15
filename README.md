@@ -34,7 +34,7 @@
  [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)<span>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</span>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamhaldkar&show_icons=true&theme=merko&hide=["contribs","prs"]&cache_seconds=86400)
 
-<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;</span>
+<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;</span>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupamhaldkar/)<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ahdev2020/) <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnupamHaldkar)](https://twitter.com/AnupamHaldkar) <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
