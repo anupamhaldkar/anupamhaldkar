@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align='center'><img  src="https://user-images.githubusercontent.com/48323127/126895374-cdfd1878-7051-48fb-a811-0140b8d0864a.jpg" alt="Hello world" ></p>
+<p align='center'><img  src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="700" height="300" style="width: 700px; height: 300px;"" alt="Hello world" ></p>
 
 
 <p align="center"> 
