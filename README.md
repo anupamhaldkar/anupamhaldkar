@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey visitor</h2>
 
 <p align='center'><img  src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="700" height="300" style="width: 700px; height: 300px;"" alt="Hello world" ></p>
 
