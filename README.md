@@ -29,7 +29,7 @@
 - [Javascript ES6 Features that you must know part 1](https://ahdev2020.medium.com/javascript-es6-features-that-you-must-know-82c26505fb66?source=rss-b061864b94c------2)
 - [Microsoft Ignite 2021 Event Overview](https://ahdev2020.medium.com/microsoft-ignite-event-overview-d711e993f01b?source=rss-b061864b94c------2)
 - [What types of security cameras are there and how to choose the right one?](https://ahdev2020.medium.com/what-types-of-security-cameras-are-there-and-how-to-choose-the-right-one-57152770f333?source=rss-b061864b94c------2)
-- [‍Developers Swags & Goodies Part 2️⃣](https://ahdev2020.medium.com/developers-swags-goodies-part-2-a46d08476b12?source=rss-b061864b94c------2)
+- [‍Developers Swags &amp; Goodies Part 2️⃣](https://ahdev2020.medium.com/developers-swags-goodies-part-2-a46d08476b12?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
