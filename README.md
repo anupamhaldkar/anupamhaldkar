@@ -25,11 +25,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Cryptocurrency and Blockchain terminologies that everyone should know](https://ahdev2020.medium.com/cryptocurrency-and-blockchain-terminologies-that-everyone-should-know-80d8281b8d4c?source=rss-b061864b94c------2)
 - [Interested in Digital Assets, Crypto &amp; Blockchain](https://ahdev2020.medium.com/interested-in-digital-assets-crypto-blockchain-9b7f68193189?source=rss-b061864b94c------2)
 - [Javascript ES6 Features that you must know  part 2](https://ahdev2020.medium.com/javascript-es6-features-that-you-must-know-part-2-56abfd131896?source=rss-b061864b94c------2)
 - [Javascript ES6 Features that you must know part 1](https://ahdev2020.medium.com/javascript-es6-features-that-you-must-know-82c26505fb66?source=rss-b061864b94c------2)
 - [Microsoft Ignite 2021 Event Overview](https://ahdev2020.medium.com/microsoft-ignite-event-overview-d711e993f01b?source=rss-b061864b94c------2)
-- [What types of security cameras are there and how to choose the right one?](https://ahdev2020.medium.com/what-types-of-security-cameras-are-there-and-how-to-choose-the-right-one-57152770f333?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
