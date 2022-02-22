@@ -25,11 +25,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Twos for Twosday [2️⃣2️⃣-2️⃣-2️⃣2️⃣]](https://ahdev2020.medium.com/twos-for-twosday-22-2-22-9c357e662604?source=rss-b061864b94c------2)
 - [Cryptocurrency and Blockchain terminologies that everyone should know &lpar;cont..&rpar;](https://blog.cryptostars.is/cryptocurrency-and-blockchain-terminologies-that-everyone-should-know-cont-56abeb9d055a?source=rss-b061864b94c------2)
 - [Cryptocurrency and Blockchain terminologies that everyone should know](https://blog.cryptostars.is/cryptocurrency-and-blockchain-terminologies-that-everyone-should-know-80d8281b8d4c?source=rss-b061864b94c------2)
 - [Interested in Digital Assets, Crypto &amp; Blockchain](https://ahdev2020.medium.com/interested-in-digital-assets-crypto-blockchain-9b7f68193189?source=rss-b061864b94c------2)
 - [Javascript ES6 Features that you must know  part 2](https://ahdev2020.medium.com/javascript-es6-features-that-you-must-know-part-2-56abfd131896?source=rss-b061864b94c------2)
-- [Javascript ES6 Features that you must know part 1](https://ahdev2020.medium.com/javascript-es6-features-that-you-must-know-82c26505fb66?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
