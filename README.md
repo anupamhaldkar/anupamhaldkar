@@ -53,7 +53,7 @@
   <h3 align="center"> <em>  <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h3>
 
 <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;</span>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupamhaldkar/)<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahaldkar/)<span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ahdev2020/) <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AnupamHaldkar)](https://twitter.com/intent/follow?screen_name=anupamhaldkar) <span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </span>
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dasjideepak/)](https://ahdev2020.medium.com) <span>&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;</span>
