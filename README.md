@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
 </p>
 <p align="center">
-- 🔭 I’m currently learning ServiceNow <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently learning Java Spring Boot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </p>
   <p align="center">
 - 💬 Ask me about : I am always ready to help at my best
