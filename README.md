@@ -33,7 +33,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupamhaldkar&theme=github&count_private=true) 
+<!--
+[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anupamhaldkar&theme=github&count_private=true) -->
 
 <span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
  [![My Github stats](https://github-readme-stats.vercel.app/api?username=anupamhaldkar&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/anupamhaldkar/github-readme-stats)<span>&nbsp; </span>
