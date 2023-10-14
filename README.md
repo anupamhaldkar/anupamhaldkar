@@ -45,7 +45,7 @@
 [![twitter badge](https://img.shields.io/badge/@AnupamHaldkar-30302f?style=flat&logo=twitter)](https://twitter.com/AnupamHaldkar)
 [![medium badge](https://img.shields.io/badge/AHDEV2020-30302f?style=flat&logo=medium)](https://medium.com/@ahdev2020)-->
 
- <h3 align="center"><a href="https://www.buymeacoffee.com/anupamh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a></h3>
+ <h3 align="center"><a href="https://www.buymeacoffee.com/anupamhaldkar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Pizza🍕" style="height: 60px !important;width: 217px !important;" ></a></h3>
 
 
 
