@@ -25,11 +25,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Interview Experience 2022](https://ahdev2020.medium.com/amazon-interview-experience-2022-f22d7de1597d?source=rss-b061864b94c------2)
-- [Twos for Twosday [2️⃣2️⃣-2️⃣-2️⃣2️⃣]](https://ahdev2020.medium.com/twos-for-twosday-22-2-22-9c357e662604?source=rss-b061864b94c------2)
-- [Cryptocurrency and Blockchain terminologies that everyone should know &lpar;cont..&rpar;](https://blog.cryptostars.is/cryptocurrency-and-blockchain-terminologies-that-everyone-should-know-cont-56abeb9d055a?source=rss-b061864b94c------2)
-- [Cryptocurrency and Blockchain terminologies that everyone should know](https://blog.cryptostars.is/cryptocurrency-and-blockchain-terminologies-that-everyone-should-know-80d8281b8d4c?source=rss-b061864b94c------2)
-- [Interested in Digital Assets, Crypto &amp; Blockchain](https://ahdev2020.medium.com/interested-in-digital-assets-crypto-blockchain-9b7f68193189?source=rss-b061864b94c------2)
+- [Streamlining Server Execution with a Single Bat File for Backend and Frontend](https://ahdev2020.medium.com/streamlining-server-execution-with-a-single-bat-file-for-backend-and-frontend-47eb4a87f0eb?source=rss-b061864b94c------2)
+- [Mastering HTTP Requests with Curl](https://ahdev2020.medium.com/mastering-http-requests-with-curl-952a363bf134?source=rss-b061864b94c------2)
+- [Unlocking Data Insights and Search Capabilities with Elasticsearch](https://ahdev2020.medium.com/unlocking-data-insights-and-search-capabilities-with-elasticsearch-da3ca1a6435b?source=rss-b061864b94c------2)
+- [What is cache?](https://ahdev2020.medium.com/what-is-cache-1ea6213468a8?source=rss-b061864b94c------2)
+- [Apache Kafka](https://ahdev2020.medium.com/apache-kafka-b98c25b2e62c?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
