@@ -25,11 +25,11 @@
 ### Wanna see my blogs:question::fire:
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Google Developer Tools: Empowering Development in the Cloud](https://ahdev2020.medium.com/exploring-google-developer-tools-empowering-development-in-the-cloud-d5152a662bfd?source=rss-b061864b94c------2)
 - [Streamlining Server Execution with a Single Bat File for Backend and Frontend](https://ahdev2020.medium.com/streamlining-server-execution-with-a-single-bat-file-for-backend-and-frontend-47eb4a87f0eb?source=rss-b061864b94c------2)
 - [Mastering HTTP Requests with Curl](https://ahdev2020.medium.com/mastering-http-requests-with-curl-952a363bf134?source=rss-b061864b94c------2)
 - [Unlocking Data Insights and Search Capabilities with Elasticsearch](https://ahdev2020.medium.com/unlocking-data-insights-and-search-capabilities-with-elasticsearch-da3ca1a6435b?source=rss-b061864b94c------2)
 - [What is cache?](https://ahdev2020.medium.com/what-is-cache-1ea6213468a8?source=rss-b061864b94c------2)
-- [Apache Kafka](https://ahdev2020.medium.com/apache-kafka-b98c25b2e62c?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
