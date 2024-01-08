@@ -22,7 +22,7 @@
 
 
 
-### Wanna see my blogs:question::fire:
+### Wanna see my blogs :fire:
 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Google Developer Tools: Empowering Development in the Cloud](https://anupamhaldkar.medium.com/exploring-google-developer-tools-empowering-development-in-the-cloud-d5152a662bfd?source=rss-b061864b94c------2)
