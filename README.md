@@ -2,7 +2,7 @@
 
 <p align='center'><img  src="https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/fa5da899-ffa1-4311-9fc5-d39b75db0328" border-radius=5px width="700" height="300" style="width: 700px; height: 300px;"" alt="Welcoming You" ></p>
 
-<h1 align="center">Hi 👋, I'm Anupam Haldkar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anupam Haldkar</h1>
 <h3 align="center">Tech enthusiast shaping the digital landscape</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamhaldkar&label=Profile%20views&color=0e75b6&style=flat" alt="anupamhaldkar" /> </p>
