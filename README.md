@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Can sleep all day and work all night**
 
-### Wanna see my blogs :fire:![Welcome to Profile](https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/4ca6e85d-8c9c-4c8c-9c16-0b855e434bab)
+### Wanna see my blogs :fire:
 
 
 <!-- BLOG-POST-LIST:START -->
