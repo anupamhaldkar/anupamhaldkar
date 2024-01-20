@@ -1,5 +1,5 @@
 
-<p align='center'><img  src="https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/c58575e4-623e-43a6-b74f-15c77c5901fb" alt="Welcoming You" ></p>
+<p align='center'><img  src="https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/3c5637a5-d483-4f51-b52b-d45a0adb4246" alt="Welcoming You" ></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anupam Haldkar</h1>
 <h3 align="center">Tech enthusiast shaping the digital landscape</h3>
@@ -20,7 +20,8 @@
 
 - ⚡ Fun fact **Can sleep all day and work all night**
 
-### Wanna see my blogs :fire:
+### Wanna see my blogs :fire:![Welcome to Profile](https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/4ca6e85d-8c9c-4c8c-9c16-0b855e434bab)
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Exploring Google Developer Tools: Empowering Development in the Cloud](https://anupamhaldkar.medium.com/exploring-google-developer-tools-empowering-development-in-the-cloud-d5152a662bfd?source=rss-b061864b94c------2)
