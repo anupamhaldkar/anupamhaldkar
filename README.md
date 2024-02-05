@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Design Pattern: part 2](https://medium.com/follower-booster-hub/software-design-pattern-part-2-951e318e5e9b?source=rss-b061864b94c------2)
 - [Software Design Patterns](https://anupamhaldkar.medium.com/software-design-patterns-0abc05c5ebca?source=rss-b061864b94c------2)
 - [Exploring Google Developer Tools: Empowering Development in the Cloud](https://anupamhaldkar.medium.com/exploring-google-developer-tools-empowering-development-in-the-cloud-d5152a662bfd?source=rss-b061864b94c------2)
 - [Streamlining Server Execution with a Single Bat File for Backend and Frontend](https://anupamhaldkar.medium.com/streamlining-server-execution-with-a-single-bat-file-for-backend-and-frontend-47eb4a87f0eb?source=rss-b061864b94c------2)
 - [Mastering HTTP Requests with Curl](https://anupamhaldkar.medium.com/mastering-http-requests-with-curl-952a363bf134?source=rss-b061864b94c------2)
-- [Unlocking Data Insights and Search Capabilities with Elasticsearch](https://anupamhaldkar.medium.com/unlocking-data-insights-and-search-capabilities-with-elasticsearch-da3ca1a6435b?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
