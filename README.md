@@ -24,9 +24,9 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Platform](https://medium.com/follower-booster-hub/google-cloud-platform-2165c9a976a9?source=rss-b061864b94c------2)
-- [Software Design Pattern: Behavioral](https://medium.com/follower-booster-hub/software-design-pattern-behavioral-c4fe55c7b2da?source=rss-b061864b94c------2)
-- [Software Design Pattern: part 2](https://medium.com/follower-booster-hub/software-design-pattern-part-2-951e318e5e9b?source=rss-b061864b94c------2)
+- [Google Cloud Platform](https://anupamhaldkar.medium.com/google-cloud-platform-2165c9a976a9?source=rss-b061864b94c------2)
+- [Software Design Pattern: Behavioral](https://anupamhaldkar.medium.com/software-design-pattern-behavioral-c4fe55c7b2da?source=rss-b061864b94c------2)
+- [Software Design Pattern: part 2](https://anupamhaldkar.medium.com/software-design-pattern-part-2-951e318e5e9b?source=rss-b061864b94c------2)
 - [Software Design Patterns](https://anupamhaldkar.medium.com/software-design-patterns-0abc05c5ebca?source=rss-b061864b94c------2)
 - [Exploring Google Developer Tools: Empowering Development in the Cloud](https://anupamhaldkar.medium.com/exploring-google-developer-tools-empowering-development-in-the-cloud-d5152a662bfd?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
