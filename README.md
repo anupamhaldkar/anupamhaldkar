@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
-- 📝 I sometime write articles on [Medium](anupamhaldkar.medium.com)
+- 📝 I sometime write articles on [Medium](https://anupamhaldkar.medium.com)
 
 - 💬 Ask me about **Spring boot, NoSQL, and microservices.**
 
