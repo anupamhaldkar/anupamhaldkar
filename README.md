@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Dynamic Web Pages with Thymeleaf  in Spring Boot -Beginner](https://medium.com/follower-booster-hub/building-dynamic-web-pages-with-thymeleaf-in-spring-boot-beginner-93e76c8f7725?source=rss-b061864b94c------2)
 - [Spring Integration: Messaging centric Architecture — Asynchronous pattern](https://medium.com/follower-booster-hub/spring-integration-messaging-centric-architecture-asynchronous-pattern-430399116453?source=rss-b061864b94c------2)
 - [Spring Integration: Messaging centric Architecture — XML advanced](https://medium.com/follower-booster-hub/spring-integration-messaging-centric-architecture-xml-advanced-365597ca47d6?source=rss-b061864b94c------2)
 - [Spring Integration: Messaging centric Architecture — XML](https://medium.com/follower-booster-hub/spring-integration-messaging-centric-architecture-xml-c3aa7641f554?source=rss-b061864b94c------2)
 - [Spring Integration: Messaging centric Architecture](https://anupamhaldkar.medium.com/spring-integration-messaging-centric-architecture-b809b2ef137f?source=rss-b061864b94c------2)
-- [Google Cloud Platform](https://medium.com/follower-booster-hub/google-cloud-platform-2165c9a976a9?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
