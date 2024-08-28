@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement dynamic Behaviour using static methods in Java ?](https://medium.com/follower-booster-hub/how-to-implement-dynamic-behaviour-using-static-methods-in-java-1fef75c426ae?source=rss-b061864b94c------2)
 - [Great News! The Medium Partner Program is Now in India](https://anupamhaldkar.medium.com/great-news-the-medium-partner-program-is-now-in-india-de09c83800c7?source=rss-b061864b94c------2)
 - [Building Dynamic Web Pages with Thymeleaf  in Spring Boot -Beginner](https://medium.com/follower-booster-hub/building-dynamic-web-pages-with-thymeleaf-in-spring-boot-beginner-93e76c8f7725?source=rss-b061864b94c------2)
 - [Spring Integration: Messaging centric Architecture — Asynchronous pattern](https://medium.com/follower-booster-hub/spring-integration-messaging-centric-architecture-asynchronous-pattern-430399116453?source=rss-b061864b94c------2)
 - [Spring Integration: Messaging centric Architecture — XML advanced](https://medium.com/follower-booster-hub/spring-integration-messaging-centric-architecture-xml-advanced-365597ca47d6?source=rss-b061864b94c------2)
-- [Spring Integration: Messaging centric Architecture — XML](https://medium.com/follower-booster-hub/spring-integration-messaging-centric-architecture-xml-c3aa7641f554?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
