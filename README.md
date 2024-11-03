@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Emerging Trends in Java Spring Boot](https://medium.com/follower-booster-hub/emerging-trends-in-java-spring-boot-52714f2eecf9?source=rss-b061864b94c------2)
 - [Boosting Java Performance using ThreadPool and Multithreading](https://medium.com/follower-booster-hub/boosting-java-performance-using-threadpool-and-multithreading-d3f9df7274a3?source=rss-b061864b94c------2)
 - [Iteration options for Java Map Collection](https://medium.com/follower-booster-hub/iteration-options-for-java-map-collection-84ac9144fce7?source=rss-b061864b94c------2)
 - [How to implement dynamic Behaviour using static methods in Java ?](https://medium.com/follower-booster-hub/how-to-implement-dynamic-behaviour-using-static-methods-in-java-1fef75c426ae?source=rss-b061864b94c------2)
 - [Great News! The Medium Partner Program is Now in India](https://anupamhaldkar.medium.com/great-news-the-medium-partner-program-is-now-in-india-de09c83800c7?source=rss-b061864b94c------2)
-- [Building Dynamic Web Pages with Thymeleaf  in Spring Boot -Beginner](https://medium.com/follower-booster-hub/building-dynamic-web-pages-with-thymeleaf-in-spring-boot-beginner-93e76c8f7725?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
