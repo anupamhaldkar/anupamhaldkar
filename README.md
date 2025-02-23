@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Circuit Breaker Pattern in microservices](https://medium.com/follower-booster-hub/circuit-breaker-pattern-in-microservices-ebbd1d810e99?source=rss-b061864b94c------2)
 - [Modernizing Legacy Systems with the Anti-Corruption Layer &lpar;ACL&rpar; Pattern](https://medium.com/follower-booster-hub/modernizing-legacy-systems-with-the-anti-corruption-layer-acl-pattern-69dd90105218?source=rss-b061864b94c------2)
 - [Modernizing Legacy Systems with the Strangler Fig Pattern](https://medium.com/follower-booster-hub/modernizing-legacy-systems-with-the-strangler-fig-pattern-99b491f31c0b?source=rss-b061864b94c------2)
 - [Handling Git Conflicts Without synchronized changes](https://medium.com/follower-booster-hub/handling-git-conflicts-without-synchronized-changes-59e4e25ccd91?source=rss-b061864b94c------2)
 - [Emerging Trends in Java Spring Boot](https://medium.com/follower-booster-hub/emerging-trends-in-java-spring-boot-52714f2eecf9?source=rss-b061864b94c------2)
-- [Boosting Java Performance using ThreadPool and Multithreading](https://medium.com/follower-booster-hub/boosting-java-performance-using-threadpool-and-multithreading-d3f9df7274a3?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
