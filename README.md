@@ -24,7 +24,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Airline Microservices](https://anupamhaldkar.medium.com/building-scalable-airline-microservices-cc77e720ac40?source=rss-b061864b94c------2)
+- [Building Scalable 2 Tier Microservices](https://anupamhaldkar.medium.com/building-scalable-airline-microservices-cc77e720ac40?source=rss-b061864b94c------2)
 - [Command Query Responsibility Segregation &lpar;CQRS&rpar; pattern](https://anupamhaldkar.medium.com/command-query-responsibility-segregation-cqrs-pattern-c0a4b59ef933?source=rss-b061864b94c------2)
 - [Circuit Breaker Pattern in microservices](https://medium.com/follower-booster-hub/circuit-breaker-pattern-in-microservices-ebbd1d810e99?source=rss-b061864b94c------2)
 - [Modernizing Legacy Systems with the Anti-Corruption Layer &lpar;ACL&rpar; Pattern](https://medium.com/follower-booster-hub/modernizing-legacy-systems-with-the-anti-corruption-layer-acl-pattern-69dd90105218?source=rss-b061864b94c------2)
