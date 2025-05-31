@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Spring boot, NoSQL, and microservices.**
 
-- 📫 How to reach me **anupam.haldkar@outlook.com**
+- 📫 How to reach me **anupamhaldkar@outlook.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p9lCNSDcXCqFgxKzZM1K0B2DTulr54r_/view?usp=sharing)
 
