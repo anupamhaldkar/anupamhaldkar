@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamhaldkar&label=Profile%20views&color=0e75b6&style=flat" alt="anupamhaldkar" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning **Python in Data Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
