@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p9lCNSDcXCqFgxKzZM1K0B2DTulr54r_/view?usp=sharing)
 
-- ⚡ Fun fact **Can sleep all day and work all night**
+- ⚡ Fun fact **Can sleep all day,night after work finishing**
 
 ### Wanna see my blogs :fire:
 
