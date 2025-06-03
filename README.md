@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **Python in Data Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://anupamhaldkar.github.io)
+- 👨‍💻 All of my side projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
-- 📝 I sometime write articles on [Medium](https://anupamhaldkar.medium.com)
+- 📝 I sometime write technical articles on [Medium](https://anupamhaldkar.medium.com)
 
 - 💬 Ask me about **Spring boot, NoSQL, and microservices.**
 
 - 📫 How to reach me **anupamhaldkar@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p9lCNSDcXCqFgxKzZM1K0B2DTulr54r_/view?usp=sharing)
+- 📄 Know to get about me [Resume](https://drive.google.com/file/d/1p9lCNSDcXCqFgxKzZM1K0B2DTulr54r_/view?usp=sharing)
 
 - ⚡ Fun fact **Can sleep all day,night after work finishing**
 
