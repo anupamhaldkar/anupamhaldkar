@@ -24,11 +24,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [DiceDB : Reactive In-Memory Database](https://medium.com/follower-booster-hub/dicedb-reactive-in-memory-database-8bbf6c9e256a?source=rss-b061864b94c------2)
 - [“Why My Spring Batch Job Was Perfect — Until It Ran on Production”](https://anupamhaldkar.medium.com/why-my-spring-batch-job-was-perfect-until-it-ran-on-production-f62f5225ae6e?source=rss-b061864b94c------2)
 - [Asynchronous Response Handling within Timestamp](https://anupamhaldkar.medium.com/asynchronous-response-handling-within-timestamp-63c34ed091c9?source=rss-b061864b94c------2)
 - [Building Scalable 2 Tier Microservices](https://anupamhaldkar.medium.com/building-scalable-airline-microservices-cc77e720ac40?source=rss-b061864b94c------2)
 - [Command Query Responsibility Segregation &lpar;CQRS&rpar; pattern](https://anupamhaldkar.medium.com/command-query-responsibility-segregation-cqrs-pattern-c0a4b59ef933?source=rss-b061864b94c------2)
-- [Circuit Breaker Pattern in microservices](https://medium.com/follower-booster-hub/circuit-breaker-pattern-in-microservices-ebbd1d810e99?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
