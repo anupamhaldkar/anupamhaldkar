@@ -1,12 +1,13 @@
 
-<p align='center'><img  src="https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/3c5637a5-d483-4f51-b52b-d45a0adb4246" alt="Welcoming You" ></p>
-
+<!-- <p align='center'><img  src="https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/3c5637a5-d483-4f51-b52b-d45a0adb4246" alt="Welcoming You" ></p>
+-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anupam Haldkar</h1>
 <h3 align="center">Tech enthusiast shaping the digital landscape</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamhaldkar&label=Profile%20views&color=0e75b6&style=flat" alt="anupamhaldkar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anupamhaldkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="anupamhaldkar" /> </p> 
+<!--  Profile Visit Counter  -->
 
-- 🌱 I’m currently learning **Python in Data Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning **Java in Design Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 All of my side projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
