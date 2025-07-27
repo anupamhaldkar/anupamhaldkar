@@ -13,11 +13,11 @@
 
 - 📝 I sometime write technical articles on [Medium](https://anupamhaldkar.medium.com)
 
-- 💬 Ask me about **Spring boot, NoSQL, and microservices.**
+- 💬 Ask me about **Spring boot, Java, and microservices.**
 
 - 📫 How to reach me **anupamhaldkar@outlook.com**
 
-- 📄 Know to get about me [Resume](https://drive.google.com/file/d/1p9lCNSDcXCqFgxKzZM1K0B2DTulr54r_/view?usp=sharing)
+- 📄 Know to get about me [Resume](https://drive.google.com/file/d/1LMYfnc4S1s_LjagRNy4X_eHTsMAYQxHf/view?usp=sharing)
 
 - ⚡ Fun fact **Can sleep all day,night after work finishing**
 
