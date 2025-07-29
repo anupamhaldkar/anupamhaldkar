@@ -7,6 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupamhaldkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="anupamhaldkar" /> </p> 
 <!--  Profile Visit Counter  -->
 
+
+
 - 🌱 I’m currently learning **Java in Design Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 All of my side projects are available at [Portfolio](https://anupamhaldkar.github.io)
@@ -15,7 +17,7 @@
 
 - 💬 Ask me about **Spring boot, Java, and microservices.**
 
-- 📫 How to reach me **anupamhaldkar@outlook.com**
+- 📫 How to reach me **anupamhaldkar@outlook.com** or 🌳 [LinkTree](https://linktr.ee/anupamhaldkar)
 
 - 📄 Know to get about me [Resume](https://drive.google.com/file/d/1quH_rACQXjrhB1r0BQTaSxLngXGPrgZ-/view?usp=sharing)
 
