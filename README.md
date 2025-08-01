@@ -1,7 +1,7 @@
 
 <!-- <p align='center'><img  src="https://github.com/anupamhaldkar/anupamhaldkar/assets/48323127/3c5637a5-d483-4f51-b52b-d45a0adb4246" alt="Welcoming You" ></p>
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anupam Haldkar</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anupam Haldkar</h1>
 <h3 align="center">Tech enthusiast shaping the digital landscape</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anupamhaldkar&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="anupamhaldkar" /> </p> 
