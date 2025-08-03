@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java in Design Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍💻 All of my side projects are available at [Portfolio](https://anupamhaldkar.github.io)
+- 👨‍💻 Curated side projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
 - 📝 I sometime write technical articles on [Medium](https://anupamhaldkar.medium.com)
 
