@@ -13,7 +13,7 @@
 
 - 👨‍💻 Curated side projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
-- 📝 I sometime write technical articles on [Medium](https://anupamhaldkar.medium.com)
+- 📝 Documents technical articles on [Medium](https://anupamhaldkar.medium.com)
 
 - 💬 Ask me about **Spring boot, Java, and microservices.**
 
