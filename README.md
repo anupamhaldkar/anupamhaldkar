@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Can sleep all day,night after work finishing**
 
-### Wanna see my blogs :fire:
+### Wanna see my blogs 📰
 
 
 <!-- BLOG-POST-LIST:START -->
