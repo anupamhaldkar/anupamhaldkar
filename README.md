@@ -15,7 +15,7 @@
 
 - 📝 Documenting technical articles on [Medium](https://anupamhaldkar.medium.com)
 
-- 💬 Ask me about **Spring boot, Java, and microservices.**
+- 💬 Ask about **Spring boot, Java, and microservices.**
 
 - 📫 How to reach me **anupamhaldkar@outlook.com** or 🌳 [LinkTree](https://linktr.ee/anupamhaldkar)
 
