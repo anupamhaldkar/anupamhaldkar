@@ -17,7 +17,7 @@
 
 - 💬 Ask about **Spring boot, Java, and microservices.**
 
-- 📫 Shoot me at **anupamhaldkar@outlook.com** or 🌳 [LinkTree](https://linktr.ee/anupamhaldkar)
+- 📫 Shoot me an email at **anupamhaldkar@outlook.com** or 🌳 [LinkTree](https://linktr.ee/anupamhaldkar)
 
 - 📄 Know to get about me [Resume](https://drive.google.com/file/d/1quH_rACQXjrhB1r0BQTaSxLngXGPrgZ-/view?usp=sharing)
 
