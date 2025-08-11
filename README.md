@@ -9,7 +9,7 @@
 
 
 
-- 🌱 Currently learning **Java in Design Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 Currently learning **Java in architecture Engineering, Advance programming, system design** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 Curated side projects are available at [Portfolio](https://anupamhaldkar.github.io)
 
