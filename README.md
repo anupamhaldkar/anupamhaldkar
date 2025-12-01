@@ -27,11 +27,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [TOON — The New Data Format That Could Change How AI Understands Information](https://medium.com/follower-booster-hub/toon-the-new-data-format-that-could-change-how-ai-understands-information-db7f19a02380?source=rss-b061864b94c------2)
 - [Ecommerce-scale architecture during Festive Sale](https://medium.com/follower-booster-hub/ecommerce-scale-architecture-during-festive-sale-e5b714c8724f?source=rss-b061864b94c------2)
 - [Building a Secure E-Gift Card System: From Number Generation to Redemption](https://medium.com/follower-booster-hub/building-a-secure-e-gift-card-system-from-number-generation-to-redemption-82c955e5fe91?source=rss-b061864b94c------2)
 - [Your Database Just Learned to Speak English: The AI Revolution Inside AlloyDB AI](https://medium.com/follower-booster-hub/your-database-just-learned-to-speak-english-the-ai-revolution-inside-alloydb-ai-360de183c675?source=rss-b061864b94c------2)
 - [How to Integrate  Secure Remote Commerce &lpar;SRC&rpar; in Spring Boot &amp; React⚙️](https://medium.com/follower-booster-hub/how-to-integrate-secure-remote-commerce-src-in-spring-boot-react-%EF%B8%8F-ee53feff4c98?source=rss-b061864b94c------2)
-- [DiceDB : Reactive In-Memory Database](https://medium.com/follower-booster-hub/dicedb-reactive-in-memory-database-8bbf6c9e256a?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
