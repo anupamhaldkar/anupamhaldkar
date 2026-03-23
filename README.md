@@ -27,11 +27,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Records vs Lombok](https://anupamhaldkar.medium.com/java-records-vs-lombok-2016c9811881?source=rss-b061864b94c------2)
 - [Monorepo vs Polyrepo: A Detailed Architecture Decision Guide](https://anupamhaldkar.medium.com/monorepo-vs-polyrepo-a-detailed-architecture-decision-guide-e65a0f688c9d?source=rss-b061864b94c------2)
 - [From JPA to jOOQ: A Spring Boot Developer’s Practical Guide](https://medium.com/follower-booster-hub/from-jpa-to-jooq-a-spring-boot-developers-practical-guide-3c4c85369b08?source=rss-b061864b94c------2)
 - [12-Factor App Principles Applied to Microservices &lpar;With Real-World Meaning&rpar;](https://medium.com/follower-booster-hub/12-factor-app-principles-applied-to-microservices-with-real-world-meaning-ddd8fa5ca579?source=rss-b061864b94c------2)
 - [Apache Druid Deep Dive: Internals, Query Execution &amp; Why It’s Blazingly Fast](https://medium.com/follower-booster-hub/apache-druid-deep-dive-internals-query-execution-why-its-blazingly-fast-dff6cf9aefba?source=rss-b061864b94c------2)
-- [TOON — The New Data Format That Could Change How AI Understands Information](https://medium.com/follower-booster-hub/toon-the-new-data-format-that-could-change-how-ai-understands-information-db7f19a02380?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
