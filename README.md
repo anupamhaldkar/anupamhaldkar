@@ -27,11 +27,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [How OTT Platforms Prevent Screenshots &amp; Screen Recording](https://medium.com/aimonks/how-ott-platforms-prevent-screenshots-screen-recording-bad74f28563d?source=rss-b061864b94c------2)
 - [Apple Pay in India: What Actually Happens Behind the “Pay” Button](https://medium.com/aimonks/apple-pay-in-india-what-actually-happens-behind-the-pay-button-4b514f6209ed?source=rss-b061864b94c------2)
 - [Hexagonal Architecture in Backend Systems: Why Modern Applications Need It](https://anupamhaldkar.medium.com/hexagonal-architecture-in-backend-systems-why-modern-applications-need-it-30d51b9df4b2?source=rss-b061864b94c------2)
 - [Building an AI Support Triage Agent: A Developer’s Journey](https://medium.com/aimonks/building-an-ai-support-triage-agent-a-developers-journey-13d05a58b3fd?source=rss-b061864b94c------2)
 - [Check-ins before go-live Production](https://medium.com/follower-booster-hub/check-ins-before-go-live-production-bdd86b582c25?source=rss-b061864b94c------2)
-- [Java Records vs Lombok](https://anupamhaldkar.medium.com/java-records-vs-lombok-2016c9811881?source=rss-b061864b94c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
